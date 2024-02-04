@@ -1,3 +1,6 @@
+
+![image](https://github.com/Abhinavcode13/aws_3-tier-architecture_terraform/assets/126642111/7d169135-7b8a-4cad-8eb5-c620d65454e2)
+
 ## What is 3-tier-architecture?
 - The three-tier architecture is the most popular implementation of a multi-tier architecture and consists of a single presentation tier, logic tier, and data tier. The following illustration shows an example of a simple, generic three-tier application.
 
@@ -16,3 +19,5 @@
 - Application Load Balancer
 - Apache Webserver
 - MySQL DB
+
+
