@@ -1,4 +1,4 @@
-
+# Project architecture
 ![image](https://github.com/Abhinavcode13/aws_3-tier-architecture_terraform/assets/126642111/7d169135-7b8a-4cad-8eb5-c620d65454e2)
 
 ## What is 3-tier-architecture?
