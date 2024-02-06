@@ -18,6 +18,6 @@
 - Route Table
 - Application Load Balancer
 - Apache Webserver
-- MySQL DB
+- MySQL DB (server0)
 
 
